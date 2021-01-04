@@ -6,7 +6,7 @@
 %hook NFUIGraphicalPlaybackAdvisoryView
 
 
--(void)didMoveToWindow {
+-(void)didMoveToWindow { // This same thing can be achieved as well by returning nil on the setupTimer method, I won't be updating the tweak since I did it mainly for myself, but this is in case you want to compile it with less code. Thanks u/Fadexz_ for the heads up!
 
 
        %orig;
