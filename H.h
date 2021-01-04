@@ -1,0 +1,2 @@
+@interface NFUIGraphicalPlaybackAdvisoryView : UIView
+@end

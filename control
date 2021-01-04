@@ -1,0 +1,9 @@
+Package: luki.byebyeadvisorylabel
+Name: ByeByeAdvisoryLabel
+Author: Luki
+Description: Removes the annoying parental advisory pop-up.
+Depends: mobilesubstrate
+Maintainer: Luki
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.0
